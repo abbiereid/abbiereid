@@ -1,5 +1,7 @@
 # Hello! I'm Abbie! 👋
-### Third year Computer Science Student
+### Recent Computer Science Graduate
+## Passionate Software Engineer
+
 Thank you for taking the time to look at some of my work!<br>
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=abbiereid&theme=radical&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
